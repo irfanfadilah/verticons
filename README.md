@@ -37,9 +37,19 @@ All the icons are placed under `Verticons/Icons/assets`.
 
 `IconDistance` => Distance between icons in pixel.
 
+# Icon Transparency
+
+I don't want to set the transpareancy in the Meter, you can adjust it manually, e.g.: `Settings > Transparency > 30%`.
+
+# Where to Get More Icons?
+
+You can use your favorite icon packs, but in this skin I'm using the icons from https://remixicon.com/.
+
+If you need white colored icons, you can download and edit (invert) it by yourself in an image editor like GIMP.
+
 # Horizontal Version?
 
-You can just swap the `X` and `Y` of each entries. e.g.:
+You can just swap the `X` and `Y` of each entries, e.g.:
 
 ```
 [Icon]
@@ -66,3 +76,7 @@ xxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+# License
+
+WTFPL
