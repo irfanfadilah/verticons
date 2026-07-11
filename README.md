@@ -1,9 +1,9 @@
 # Verticons
-Simple Rainmeter Skin for Displaying Icons/Shortcuts Vertically 
+Simple Rainmeter Skin for Displaying Icons/Shortcuts Vertically
 
 # Screenshot
 
-![ScreenShot](https://user-images.githubusercontent.com/6077598/98790285-112e1a00-2436-11eb-9d0a-9fee0e8afeda.png)
+![ScreenShot](./Screenshot.png)
 
 # Download
 
